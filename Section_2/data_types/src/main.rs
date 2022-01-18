@@ -27,7 +27,6 @@ fn main() {
 
     // println!("{}",c);
 
-
     // + - * / %
 
     // let a = 10;
@@ -73,7 +72,7 @@ fn main() {
 
     // let v: Vec<i32> = (0..5).collect();
     // println!("{:?}", v);
-    
+
     // let sv: &[i32] = &v[2..4];
     // println!("{:?}", sv);
 
@@ -99,5 +98,4 @@ fn main() {
 
     // let rust = "\x52\x75\x73\x74";
     // println!("{}", rust);
-
 }
