@@ -116,12 +116,12 @@ fn main() {
         let checked = check_inventory(vec, String::from("shirt"));
         println!("{:?}", checked);
 
-        let mut range = Range {start: 0, end: 10};
+        //let mut range = Range {start: 0, end: 10};
         // for r in range {
         //     println!("{}", r);
         // }
 
-        let vec: Vec<u32> = range.filter(|x| x % 2 == 0).collect();
+        //let vec: Vec<u32> = range.filter(|x| x % 2 == 0).collect();
         println!("{:?}", vec);
 
 }
