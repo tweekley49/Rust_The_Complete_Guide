@@ -1,6 +1,4 @@
- new check learn all good 
-not good new new 
-
+updated 
 
 
 fn main(){
