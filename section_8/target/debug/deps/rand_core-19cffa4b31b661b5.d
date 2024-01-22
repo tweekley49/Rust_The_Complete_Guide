@@ -1,0 +1,10 @@
+/Users/antoniosantos/repositories /Rust_The_Complete_Guide/section_8/target/debug/deps/librand_core-19cffa4b31b661b5.rmeta: /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/lib.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/block.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/error.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/impls.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/le.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/os.rs
+
+/Users/antoniosantos/repositories /Rust_The_Complete_Guide/section_8/target/debug/deps/rand_core-19cffa4b31b661b5.d: /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/lib.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/block.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/error.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/impls.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/le.rs /Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/os.rs
+
+/Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/lib.rs:
+/Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/block.rs:
+/Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/error.rs:
+/Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/impls.rs:
+/Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/le.rs:
+/Users/antoniosantos/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.6.3/src/os.rs:
